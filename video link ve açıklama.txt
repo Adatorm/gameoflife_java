@@ -1,0 +1,5 @@
+http://youtu.be/NdQhd8uIAEE
+
+-oyun kayýt edilirken sað üste oyunu kaydýrýyor,bütününe bir etkisi olmuyor,
+-oyunun penceresi yeniden boyutlandýrýlamýyor ve simge durumuna küçült dendiðinde oyun arayüzü bozuluyor,
+layout kullanmadan oluþturduðum için böyle bir durum var.
