@@ -1,5 +1,5 @@
-http://youtu.be/NdQhd8uIAEE
+http://youtu.be/NdQhd8uIAEE (has deleted )
 
--oyun kayıt edilirken sağ üste oyunu kaydırıyor,bütününe bir etkisi olmuyor,
--oyunun penceresi yeniden boyutlandırılamıyor ve simge durumuna küçült dendiğinde oyun arayüzü bozuluyor,
-layout kullanmadan oluşturduğum için böyle bir durum var.
+-oyun kayÄ±t edilirken saÄŸ Ã¼ste oyunu kaydÄ±rÄ±yor,bÃ¼tÃ¼nÃ¼ne bir etkisi olmuyor,
+-oyunun penceresi yeniden boyutlandÄ±rÄ±lamÄ±yor ve simge durumuna kÃ¼Ã§Ã¼lt dendiÄŸinde oyun arayÃ¼zÃ¼ bozuluyor,
+layout kullanmadan oluÅŸturduÄŸum iÃ§in bÃ¶yle bir durum var.
